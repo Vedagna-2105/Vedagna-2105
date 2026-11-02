@@ -1,5 +1,5 @@
 <h1 align="center">Hie 👋, I'm Vedagna</h1>
-<h3 align="center">Final Year Student at VIT</h3>
+<h3 align="center">BCA Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966">
 
 <p align="left"> 
