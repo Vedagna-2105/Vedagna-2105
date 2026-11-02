@@ -12,7 +12,6 @@
   </a> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vedagna.netlify.app/](https://portfolio-vedagna.netlify.app/)
 
 - 📫 How to reach me **vedagna2105@gmail.com**
 
