@@ -1,6 +1,5 @@
 <h1 align="center">Hie 👋, I'm Vedagna</h1>
 <h3 align="center">BCA Graduate</h3>
-src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vedagna-2105&label=Profile%20views&color=0e75b6&style=flat" alt="vedagna-2105" /> 
